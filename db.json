@@ -1,31 +1,31 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "My comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "Second comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "articles": [
+        {
+            "id": 1,
+            "category": "Industry Insights",
+            "owner": "Jay",
+            "subhead": "printing and typesetting",
+            "publishDate": "16 march 2018.12:05 ET",
+            "title": "Simply dummy text of the printing and typesetting industry",
+            "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make"
+        },
+        {
+            "id": 2,
+            "category": "Article Insights",
+            "owner": "Cris",
+            "subhead": "publishing software like",
+            "publishDate": "10 march 2019.01:05 ET",
+            "title": "With desktop publishing software like Aldus PageMaker",
+            "content":"recently with desktop publishing software like Aldus PageMaker includingrsions of Lorem Ipsum."
+        },
+        {
+            "id": 3,
+            "category": "Realestate Insights",
+            "owner": "Nido",
+            "subhead": "popular belief, Lorem Ipsum",
+            "publishDate": "25 march 2019.06:05 ET",
+            "title": "Contrary to popular belief, Lorem Ipsum is not simply random",
+            "content":"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old"
+        }
+    ]
 }
